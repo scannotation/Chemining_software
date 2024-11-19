@@ -1,5 +1,5 @@
 ![Chemining](Chemining-logo_git.png)
-Chemining is an automated and user-friendly tool to retrieve a lot of data from the PubChem and ChEBI websites. From only compounds name (SMILES and molecular formula) checked by Chemining, numerous identifiers, parameters and the ontology of these compounds are extracted and delivered in Excel format.
+Chemining is an automated and user-friendly tool to retrieve a lot of data from the PubChem and ChEBI websites. From only compounds name (SMILES and molecular formula) checked by Chemining, numerous identifiers, parameters and the ontology of these compounds are extracted and delivered in Excel format.\
 Watch the video tutorial for more information.
 
 ## Development
