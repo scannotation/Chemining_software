@@ -7,9 +7,8 @@ Chemining was developed in Python 3.9 on Windows 10.
 
 ## Tutorial
 Please view the [video tutorial](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip) to get started with Chemining.\
-We recommend viewing the tutorial with the included chapters by launching the file 'Chemining_1.0.2_7_player.html' present in the zip folder:\
-\
-![tutorial_chapters](Chemining-tutorial_homepage.png)
+We recommend viewing the tutorial with the included chapters by launching in your web browser the file 'Chemining_1.0.2_7_player.html' present in the zip folder:\
+\![tutorial_chapters](Chemining-tutorial_homepage.png)
 
 ## Help and Technical support
 If you encounter any problems, please contact the developers at this address: scannotation@ehesp.fr or post your issue on this GitHub repository based on the file "[Issue_template.md](https://github.com/scannotation/Chemining_software/blob/main/Issue_template.md)".
