@@ -17,9 +17,10 @@ To get started with Chemining, you can view the tutorial:
 \
 ![tutorial_chapters](Chemining-tutorial_homepage.png)
 \
+\
 => please download the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip)
 and launch in your web browser the file "Chemining-tutorial_player.html" present in the zip file.
 
 ## Help and Technical support
 If you encounter any problems, please contact the developers at this address: scannotation@ehesp.fr 
-or post your issue on this GitHub repository based on the file "[Issue_template.md](https://github.com/scannotation/Chemining_software/blob/main/Issue_template.md)".
+or post your issue on this GitHub repository based on the file ["Issue_template.md"](https://github.com/scannotation/Chemining_software/blob/main/Issue_template.md).
