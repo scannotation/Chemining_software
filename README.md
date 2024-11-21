@@ -13,7 +13,7 @@ Chemining was developed in Python 3.9 on Windows 10.
 ## Tutorial
 To get started with Chemining, you can view the tutorial:
 * either [on YouTube](https://youtu.be/fFA_ibtz7Dk) directly
-* or if you want to navigate through the video using the table of contents (recommended):\
+* or if you want to browse the video using the table of contents (recommended):\
 \
 ![tutorial_summary](Chemining-tutorial_homepage.png)
 \
