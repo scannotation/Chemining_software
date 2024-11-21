@@ -11,11 +11,11 @@ or by downloading the file ["Chemining-tutorial.zip"](https://github.com/scannot
 Chemining was developed in Python 3.9 on Windows 10.
 
 ## Tutorial
-To get started with Chemining, you can view the tutorial [on YouTube](https://youtu.be/fFA_ibtz7Dk)
-or if you want to navigate through the video using the table of contents:\
+To get started with Chemining, you can view the tutorial [on YouTube](https://youtu.be/fFA_ibtz7Dk).
+Or if you want to navigate through the video using the table of contents:\
 \
 ![tutorial_chapters](Chemining-tutorial_homepage.png)
-=> please download the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip)
+\=> please download the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip)
 and launch in your web browser the file "Chemining-tutorial_player.html" present in the zip file.
 
 ## Help and Technical support
