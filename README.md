@@ -15,7 +15,8 @@ To get started with Chemining, you can view the tutorial:
 * either directly [on YouTube](https://youtu.be/fFA_ibtz7Dk)
 * or if you want to navigate through the video using the table of contents:\
 \
-![tutorial_chapters](Chemining-tutorial_homepage.png)\
+![tutorial_chapters](Chemining-tutorial_homepage.png)
+\
 => please download the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip)
 and launch in your web browser the file "Chemining-tutorial_player.html" present in the zip file.
 
