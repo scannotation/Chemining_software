@@ -4,7 +4,7 @@ From only compounds name (SMILES and molecular formula) checked by Chemining, nu
 parameters and the ontology of these compounds are extracted and delivered in Excel format.\
 \
 Click on the following link to download the installation file ["Chemining_1.0.2-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_1.0.2-setup.exe).\
-For more information, view the video tutorial [on YouTube](https://youtu.be/tTnQ8K6wFkU) 
+For more information, view the video tutorial [on YouTube](https://youtu.be/bADDCyRrOEE) 
 or by downloading the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip).
 
 ## Development
@@ -12,7 +12,7 @@ Chemining was developed in Python 3.9 on Windows 10.
 
 ## Tutorial
 To get started with Chemining, you can view the tutorial:
-* either [on YouTube](https://youtu.be/tTnQ8K6wFkU) directly
+* either [on YouTube](https://youtu.be/bADDCyRrOEE) directly
 * or if you want to browse the video using the table of contents (recommended):\
 \
 ![tutorial_summary](Chemining-tutorial_homepage.png)
