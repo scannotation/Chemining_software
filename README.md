@@ -1,10 +1,10 @@
 ![Chemining](Chemining-logo_git.png)
-Chemining is an automated and user-friendly tool to retrieve specific data from the PubChem and ChEBI websites. 
-From only compounds name (and possibly SMILES and molecular formula) checked by Chemining, numerous identifiers, 
-physico-chemical parameters and the ontology of these compounds are extracted and delivered in Excel format.\
+Chemining is an automated and user-friendly tool to retrieve user-selected data from PubChem and ChEBI. 
+From only compounds name (SMILES and molecular formula optional) checked by Chemining, identifiers, 
+physical-chemical parameters and ontology data are extracted and delivered in Excel format.\
 \
 Click on the following link to download the installation file ["Chemining_1.0.2-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_1.0.2-setup.exe).\
-For more information, view the video tutorial [on YouTube](https://youtu.be/bADDCyRrOEE) 
+For more information, view the video tutorial [on YouTube](https://youtu.be/fgq1imKwjuQ) 
 or by downloading the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip).
 
 ## Development
@@ -12,7 +12,7 @@ Chemining was developed in Python 3.9 on Windows 10.
 
 ## Tutorial
 To get started with Chemining, you can view the tutorial:
-* either [on YouTube](https://youtu.be/bADDCyRrOEE) directly
+* either [on YouTube](https://youtu.be/fgq1imKwjuQ) directly
 * or if you want to browse the video using the table of contents (recommended):\
 \
 ![tutorial_summary](Chemining-tutorial_homepage.png)
