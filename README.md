@@ -19,7 +19,7 @@ To get started with Chemining, you can view the tutorial:
 ![tutorial_summary](Chemining-tutorial_homepage.png)
 \
 \
-&#x27AA; please download the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip)
+&#x27AA; Please download the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip)
 and launch in your web browser the file "Chemining-tutorial_player.html" present in the zip file.\
 The video is fast, do not hesitate to pause it with the space bar or use a slower pace to read it.
 
