@@ -3,7 +3,7 @@ Chemining is an automated and user-friendly tool to retrieve user-selected data 
 From only compounds name (SMILES and molecular formula optional) checked by Chemining, identifiers, 
 physical-chemical parameters and ontology data are extracted and delivered in Excel format.\
 \
-Click on the following link to download the installation file ["Chemining_1.0.2-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_1.0.2-setup.exe).\
+Click on the following link to download the installation file ["Chemining_1.0.3-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_1.0.3-setup.exe).\
 For more information, view the video tutorial [on YouTube](https://youtu.be/fgq1imKwjuQ) 
 or by downloading the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip).\
 The video is fast, do not hesitate to pause it with the space bar or use a slower pace to read it.
