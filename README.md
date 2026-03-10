@@ -5,7 +5,7 @@ physical-chemical parameters and ontology data are extracted and delivered in Ex
 \
 Click on the following link to download the installation file ["Chemining_2.0.0-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_2.0.0-setup.exe).
 > **Note:** This new setup is now compatible with the updated version of ChEBI ["(ChEBI 2.0)"](https://chembl.blogspot.com/2025/10/chebi2-release.html) released on October 8, 2025.
-\
+
 For more information, view the video tutorial [on YouTube](https://youtu.be/fgq1imKwjuQ) 
 or by downloading the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip).
 > **Note:** The tutorial was created for Chemining version 1.0.3, but the usage remains the same for the current version.\
