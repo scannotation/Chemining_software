@@ -4,7 +4,7 @@ From only compounds name (SMILES and molecular formula optional) checked by Chem
 physical-chemical parameters and ontology data are extracted and delivered in Excel format.
 
 Click on the following link to download the installation file ["Chemining_2.0.0-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_2.0.0-setup.exe).
-> **Note: This new setup is now compatible with ["ChEBI 2.0"]**(https://chembl.blogspot.com/2025/10/chebi2-release.html), the updated version of ChEBI released on October 8, 2025.
+> **Note:** This new setup is now compatible with ["**ChEBI 2.0**"](https://chembl.blogspot.com/2025/10/chebi2-release.html), the updated version of ChEBI released on October 8, 2025.
 
 For more information, view the video tutorial [on YouTube](https://youtu.be/fgq1imKwjuQ) 
 or by downloading the file ["Chemining-tutorial.zip"](https://github.com/scannotation/Chemining_software/blob/main/Chemining-tutorial.zip).
