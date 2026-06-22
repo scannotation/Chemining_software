@@ -3,7 +3,7 @@ Chemining is an automated and user-friendly tool to retrieve user-selected data 
 From only compounds name (SMILES and molecular formula optional) checked by Chemining, identifiers, 
 physical-chemical parameters and ontology data are extracted and delivered in Excel format.
 
-Click on the following link to download the installation file ["Chemining_2.0.1-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_2.0.1-setup.exe).
+Click on the following link to download the installation file ["Chemining_2.0.2-setup.exe"](https://github.com/scannotation/Chemining_software/blob/main/Chemining_2.0.2-setup.exe).
 > **Note:** This new setup is now compatible with ["**ChEBI 2.0**"](https://chembl.blogspot.com/2025/10/chebi2-release.html), the updated version of ChEBI released on October 8, 2025.
 
 For more information, view the video tutorial [on YouTube](https://youtu.be/fgq1imKwjuQ) 
@@ -12,7 +12,7 @@ or by downloading the file ["Chemining-tutorial.zip"](https://github.com/scannot
 The video is fast, so do not hesitate to pause it with the space bar or use a slower pace to read it.
 
 ## Development
-Chemining was developed in Python 3.9 on Windows 10.
+Chemining was developed in Python 3.9 on Windows 11.
 
 ## Tutorial
 To get started with Chemining, you can view the tutorial:
